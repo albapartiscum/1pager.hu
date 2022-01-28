@@ -37988,9 +37988,8 @@ A.vt.prototype={
 am(){return new A.MW(B.m)}}
 A.MW.prototype={
 F(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=A.cw(b,t.A),f=t.w,e=b.E(f).f.a.b,d=b.E(f).f.a.a
-if(d<385)f=d*1.1
-else if(d<365)f=d*0.9
-else f=d<380?d*0.8:d*0.7
+if(d<365)f=d*0.9
+else f=d<380?d*0.8:d*1.1
 s=d<450?d*0.15:d*0.04
 f=A.l5(h,A.GU(!1,A.hr("assets/it.png",d*0.9,h),0.9),h,h,h,s,f,h)
 s=e*0.025
