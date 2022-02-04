@@ -85,7 +85,7 @@ const RESOURCES = {
 "assets/assets/firms/dk.png": "0abeb9ecb6fc6e621f038abc8c0da5ee",
 "assets/assets/firms/innovaflex_logo.png": "621533294f52449a95ba2fd08e6ffd0a",
 "assets/assets/firms/nofeszko.png": "4cc97732282a5adcd2ca48b7d49c3132",
-"assets/assets/firms/dklogo.png": "cb743ec98dcd55dbced37c4319c1bb5d",
+"assets/assets/firms/dklogo.png": "739889dbefd76617b57421156e637078",
 "assets/assets/firms/innovaflex.jpeg": "415610c2213852f86f25c0a9c03ddaaf",
 "assets/assets/it.png": "8cafe3defa9b69cdf338b0a51d3d565b",
 "assets/assets/icons/ap_icons.png": "7cc10e259f54efc2127722bef497a512",
@@ -109,14 +109,14 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "37d328ac4a5b02a9d6d04057eb546983",
+"main.dart.js": "cc192e71f16b4b13ddc580486ea8eb83",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
 "canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
 "canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
 "canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
-"index.html": "37e71f6db3164572951da6b1aa6d5769",
-"/": "37e71f6db3164572951da6b1aa6d5769"
+"index.html": "24d6eafbab5ea3e9c59ba5b1eb58c53e",
+"/": "24d6eafbab5ea3e9c59ba5b1eb58c53e"
 };
 
 // The application shell files that are downloaded before a service worker can
